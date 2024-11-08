@@ -1,0 +1,1 @@
+start  .\utilities\at32f403a_407_freertos_demo\mdk_v5\freertos_demo.uvprojx
